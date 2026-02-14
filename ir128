@@ -148,3 +148,5 @@ vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:443/?type=tcp&encryp
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
 
 vless://c0c42ba7-0b41-46db-8988-d3d7b53eebcd@141.98.189.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.strelkavpn.com&pbk=oVH-PJ9YlO_QfwDiAkCFeg5LGQXBhOzWuNSXO7BxTVA&sid=cfd8&type=tcp#%F0%9F%87%A9%F0%9F%87%AAVLESS%20Germany%20%7C%20MARUSYA
+
+vless://e85967d8-c879-42a1-870b-30555bdf7fcf@94.131.113.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fast.strelkavpn.ru&pbk=gUDEXo3UPF5WlJdIvpKMZbcLfKxMkiDyWgXjleD0aA4&sid=52ff1eca74d6b2&type=tcp#VLESS%20Poland%20%7C%20MARUSYA%F0%9F%87%B5%F0%9F%87%B1
