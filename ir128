@@ -1,6 +1,6 @@
 #profile-title: MARUSYA VPN
 #profile-update-interval: 6
-#announce: MARUSYA VPN \Использование подписки должно быть исполнено только во время белых списков! Распространение 3-им лицам карается блокировкой аккаунта!
+#announce: MARUSYA VPN Использование подписки должно быть исполнено только во время белых списков! Распространение 3-им лицам карается блокировкой аккаунта!
 vless://bbc5126c-0f1c-4301-b2f4-1e9d0780d0c4@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#1.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20TG%3A%20%40wlrustg
 
 vless://456bd17d-9407-4b88-959f-aa320b0a572e@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#2.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20TG%3A%20%40wlrustg
