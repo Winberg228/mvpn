@@ -109,3 +109,5 @@ vless://e85967d8-c879-42a1-870b-30555bdf7fcf@94.131.113.228:443?encryption=none&
 vless://5b74ca38-f45d-4931-bd10-0c6e2dfcd9a3@103.113.68.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.fasssst.ru&pbk=QvjP74yYU3MSjcPB4sdxU1FC1Qtqaq6k7WoiEpx3FRM&sid=0ef194cc&type=tcp#VLESS%20USA%20%7C%20MARUSYA%F0%9F%87%BA%F0%9F%87%B8
 
 vless://afc3439e-d3e7-473d-9f49-7ecb54054f28@89.221.203.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lu20.strelkavpn.com&pbk=XFrZyCGNcvagmPNvZv-5ILdStbMDJT7TVQ1kUNpmGkY&sid=21659e3d9399&type=tcp#VLESS%20VPN%20LUXEMBURG%20%7C%20MARUSYA%F0%9F%87%B1%F0%9F%87%BA
+
+vless://917ac1b9-c517-409e-b0ea-f7a0533d4419@141.98.190.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr30.strelkavpn.com&pbk=c0M0KssATBBCGw_Ae1-lOovZhNAXNfJtqPAk-cdTPjE&sid=c5e858a31c87&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20VLESS%20VPN%20FRANCE%20%7C%20MARUSYA
