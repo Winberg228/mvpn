@@ -120,34 +120,7 @@ vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443/?type=tcp&encry
 vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
 
 vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@79.137.175.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#VLESS%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@84.252.136.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#VLESS%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
-
-vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@89.169.162.214:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
+u&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#VLESS%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20MARUSYA
 
 vless://c0c42ba7-0b41-46db-8988-d3d7b53eebcd@141.98.189.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=content.strelkavpn.com&pbk=oVH-PJ9YlO_QfwDiAkCFeg5LGQXBhOzWuNSXO7BxTVA&sid=cfd8&type=tcp#%F0%9F%87%A9%F0%9F%87%AAVLESS%20Germany%20%7C%20MARUSYA
 
